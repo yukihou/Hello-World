@@ -30,4 +30,10 @@ __粗体__
 
 [百度一下](http://baidu.com "这是百度网站")
 
+*绝对路径图片*
+
 ![nico](https://avatars1.githubusercontent.com/u/26513522?v=3&s=460) 
+
+*相对路径图片*
+
+![pic](./xxx.jpg)
